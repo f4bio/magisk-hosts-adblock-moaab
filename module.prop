@@ -1,0 +1,8 @@
+id=hosts-adblock-moaab
+name=Hosts Adblock (MoaAB)
+version=v1.0.0
+versionCode=1
+author=f4bio
+description=module to replace hosts file with MoaAB's
+support=http://forum.xda-developers.com/apps/magisk
+donate=https://www.coinbase.com/f4bio

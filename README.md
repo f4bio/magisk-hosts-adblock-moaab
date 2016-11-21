@@ -1,4 +1,4 @@
-# Magisk Hosts Adblock
+# Magisk Hosts Adblock (MoaAB)
 
 overwrites /system/etc/hosts file with [MoaAB](http://forum.xda-developers.com/showthread.php?t=1916098) one.  
 current version: `MoaAB_ADBlocking_10202016_R1`
